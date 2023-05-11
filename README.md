@@ -15,6 +15,9 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
+" target="_blank"><img src="http://img.youtube.com/vi/feNQwFnJf08/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?logoColor=blue?style=for-the-badge&logo=linkedin
 [linkedin-url]: https://linkedin.com/in/rubenjimenezavila
