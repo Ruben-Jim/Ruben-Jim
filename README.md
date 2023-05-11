@@ -19,5 +19,5 @@
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/rubenjimenezavila
 
-[github-shield]: https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FRuben_Jimenez_7 
+[github-shield]: https://img.shields.io/twitter/url?style=for-the-badge&logo=github
 [github-url]: https://github.com/Ruben-Jim
