@@ -1,3 +1,6 @@
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
+
 ### Hi there 👋
 
 ***This is my portfolio enjoy 🏵️***
