@@ -1,5 +1,5 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
-[!Github][github-shield]][github-url]
+[![Github][github-shield]][github-url]
 
 
 ### Hi there 👋
