@@ -16,8 +16,10 @@
 - ⚡ Fun fact: ...
 
 
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=255
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?logoColor=blue?style=for-the-badge&logo=linkedin
 [linkedin-url]: https://linkedin.com/in/rubenjimenezavila
 
 [github-shield]: https://img.shields.io/badge/-Twitter-black.svg?style=for-the-badge&logo=github&colorB=555
 [github-url]: https://github.com/Ruben-Jim
+
+[youtube-shield]: http://img.shields.io/badge/-Youtube-black.svg?style=for-the-badge&logo=youtubeR=1000
