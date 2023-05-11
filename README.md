@@ -16,7 +16,7 @@
 - ⚡ Fun fact: ...
 
 
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=255
 [linkedin-url]: https://linkedin.com/in/rubenjimenezavila
 
 [github-shield]: https://img.shields.io/twitter/url?style=for-the-badge&logo=github&colorB=555
