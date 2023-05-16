@@ -36,5 +36,5 @@
 [port-shield]: https://img.shields.io/badge/Portfolio-blue.svg?style=for-the-badge&logoColor=white
 [port-url]: https://ruben-jim.github.io/Portfolio/
 
-[Wt-shield]: https://img.shields.io/badge/Weather-blueviolet.svg?style=for-the-badge&logoColor=white
+[Wt-shield]: https://img.shields.io/badge/Weather-orange.svg?style=for-the-badge&logoColor=white
 [Wt-url]: https://ruben-jim.github.io/weather/
