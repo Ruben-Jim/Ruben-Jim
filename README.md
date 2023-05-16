@@ -2,6 +2,7 @@
 [![Tw][tw-shield]][tw-url]
 [![Gh][gh-shield]][gh-url]
 [![Yt][yt-shield]][yt-url] 
+[![Discord][discord-shield]][discord-url]
 
 ### Hi there 👋
 
@@ -26,6 +27,8 @@
 [yt-shield]: https://img.shields.io/badge/-Youtube-red.svg?style=for-the-badge&logo=youtube&logoColor=white
 [yt-url]: https://www.youtube.com/channel/UC-H2SCmOw-dm6DwwYcGORAA
 
+[discord-shield]: http://img.shields.io/badge/-Discord-blue.svg?style=for-the-badge&logo=discord&logoColor=white
+[discord-url]: http://discordapp.com/users/RubJim#6830
 
 [clock-shield]: https://img.shields.io/badge/DigitalClock-darkgreen.svg?style=for-the-badge&logoColor=white
 [clock-url]: https://ruben-jim.github.io/Digital-Clock/
