@@ -6,7 +6,8 @@
 
 ### Hi there 👋
 
-*** Feel free to look here at my portfolio enjoy and any feedback would be much appreciated   🏵️***
+***Feel free to look here at my portfolio enjoy
+and any feedback would be much appreciated   🏵️***
 
 
 [![Clock][clock-shield]][clock-url]
