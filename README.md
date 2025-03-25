@@ -34,8 +34,8 @@ and any feedback would be much appreciated   🏵️***
 [clock-shield]: https://img.shields.io/badge/DigitalClock-darkgreen.svg?style=for-the-badge&logoColor=white
 [clock-url]: https://ruben-jim.github.io/Digital-Clock/
 
-[port-shield]: https://img.shields.io/badge/Portfolio-blue.svg?style=for-the-badge&logoColor=white
-[port-url]: https://ruben-jim.github.io/Portfolio/
+[port-shield]: https://img.shields.io/badge/Portfolio-gold.svg?style=for-the-badge&logoColor=white
+[port-url]: https://ruben-jim.github.io/vcard-personal-portfolio/
 
 [Wt-shield]: https://img.shields.io/badge/Weather-orange.svg?style=for-the-badge&logoColor=white
 [Wt-url]: https://ruben-jim.github.io/weather/
