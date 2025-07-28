@@ -37,5 +37,5 @@ and any feedback would be much appreciated   🏵️***
 [port-shield]: https://img.shields.io/badge/Portfolio-darkorange.svg?style=for-the-badge&logoColor=white
 [port-url]: https://ruben-jim.github.io/Portfolio2025/
 
-[Wt-shield]: https://img.shields.io/badge/Weather-lightyellow.svg?style=for-the-badge&logoColor=white
+[Wt-shield]: https://img.shields.io/badge/Weather-gold.svg?style=for-the-badge&logoColor=white
 [Wt-url]: https://ruben-jim.github.io/weather/
