@@ -41,5 +41,5 @@ and any feedback would be much appreciated   🏵️***
 [Wt-shield]: https://img.shields.io/badge/-Weather-gold.svg?style=for-the-badge&logoColor=white
 [Wt-url]: https://ruben-jim.github.io/weather/
 
-[SalonSync-shield]: http://img.shields.io/badge/-SalonSync-limegreen.svg?style=for-the-badge&logoColor=white
+[SalonSync-shield]: http://img.shields.io/badge/-SalonSync-forestgreen.svg?style=for-the-badge&logoColor=white
 [SalonSync-url]: https://github.com/Ruben-Jim/SalonSync
