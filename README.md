@@ -53,5 +53,5 @@ and any feedback would be much appreciated   🏵️***
 [realestate-shield]: http://img.shields.io/badge/-RealEstate-blue.svg?style=for-the-badge&logoColor=white
 [realestate-url]: https://ruben-jim.github.io/Real-Estate/
 
-[merchstore-shield]: http://img.shields.io/badge/-FireconMerchStore-indigo.svg?style=for-the-badge&logoColor=white
+[merchstore-shield]: http://img.shields.io/badge/-MerchStore-indigo.svg?style=for-the-badge&logoColor=white
 [merchstore-url]: https://ruben-jim.github.io/FIreCON-merch-store/
