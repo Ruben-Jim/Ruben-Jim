@@ -1,8 +1,8 @@
-[![Yt][yt-shield]][yt-url] 
-[![Discord][discord-shield]][discord-url]
+[![Gh][gh-shield]][gh-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Tw][tw-shield]][tw-url]
-[![Gh][gh-shield]][gh-url]
+[![Discord][discord-shield]][discord-url]
+[![Yt][yt-shield]][yt-url] 
 
 ### Hi there 👋
 
