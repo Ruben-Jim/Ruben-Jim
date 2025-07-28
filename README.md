@@ -31,10 +31,10 @@ and any feedback would be much appreciated   🏵️***
 [discord-shield]: http://img.shields.io/badge/--5865F2.svg?style=for-the-badge&logo=discord&logoColor=white
 [discord-url]: http://discordapp.com/users/RubJim#6830
 
-[clock-shield]: https://img.shields.io/badge/DigitalClock-red.svg?style=for-the-badge&logoColor=white
+[clock-shield]: https://img.shields.io/badge/DigitalClock-red.svg?style=for-the-badge&logoColor=black
 [clock-url]: https://ruben-jim.github.io/Digital-Clock/
 
-[port-shield]: https://img.shields.io/badge/Portfolio-darkorange.svg?style=for-the-badge&logoColor=white
+[port-shield]: https://img.shields.io/badge/Portfolio-darkorange.svg?style=for-the-badge&logoColor=black
 [port-url]: https://ruben-jim.github.io/Portfolio2025/
 
 [Wt-shield]: https://img.shields.io/badge/Weather-gold.svg?style=for-the-badge&logoColor=white
