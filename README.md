@@ -16,7 +16,7 @@ and any feedback would be much appreciated   🏵️***
 [![SalonSync][SalonSync-shield]][SalonSync-url]
 [![zoomrealty][zoomrealty-shield]][zoomrealty-url]
 [![realestate][realestate-shield]][realestate-url]
-
+[![merchstore][merchstore-shield]][merchstore-url]
 
 
 
