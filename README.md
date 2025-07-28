@@ -1,7 +1,7 @@
+[![Yt][yt-shield]][yt-url] 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Tw][tw-shield]][tw-url]
 [![Gh][gh-shield]][gh-url]
-[![Yt][yt-shield]][yt-url] 
 [![Discord][discord-shield]][discord-url]
 
 ### Hi there 👋
