@@ -16,7 +16,7 @@ and any feedback would be much appreciated   🏵️***
 
 
 
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-white.svg?style=for-the-badge&logo=inspire&logoColor=blue
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-0A66C2.svg?style=for-the-badge&logo=inspire&logoColor=blue
 [linkedin-url]: https://linkedin.com/in/rubenjimenezavila/
 
 [tw-shield]: https://img.shields.io/badge/-Twitter-blue.svg?style=for-the-badge&logo=twitter&logoColor=white
