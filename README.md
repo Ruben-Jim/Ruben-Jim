@@ -19,7 +19,7 @@ and any feedback would be much appreciated   🏵️***
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-0A66C2.svg?style=for-the-badge&logo=inspire&logoColor=white
 [linkedin-url]: https://linkedin.com/in/rubenjimenezavila/
 
-[tw-shield]: https://img.shields.io/badge/-Twitter-blue.svg?style=for-the-badge&logo=x&logoColor=white
+[tw-shield]: https://img.shields.io/badge/-X-black.svg?style=for-the-badge&logo=x&logoColor=white
 [tw-url]: https://x.com/Ruben_Jimenez_7
 
 [gh-shield]: https://img.shields.io/badge/-Github-black.svg?style=for-the-badge&logo=github&logoColor=white
