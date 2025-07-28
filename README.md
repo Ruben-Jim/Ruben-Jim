@@ -43,3 +43,6 @@ and any feedback would be much appreciated   🏵️***
 
 [SalonSync-shield]: http://img.shields.io/badge/-SalonSync-forestgreen.svg?style=for-the-badge&logoColor=white
 [SalonSync-url]: https://github.com/Ruben-Jim/SalonSync
+
+[zoomrealty-shield]: http://img.shields.io/badge/-ZoomRealty-cyan.svg?style=for-the-badge&logoColor=white
+[zoomrealty-url]: http://ruben-jim.github.io/ZoomRealty2025-main/
