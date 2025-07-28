@@ -47,3 +47,6 @@ and any feedback would be much appreciated   🏵️***
 
 [zoomrealty-shield]: http://img.shields.io/badge/-ZoomRealty-cyan.svg?style=for-the-badge&logoColor=white
 [zoomrealty-url]: http://ruben-jim.github.io/ZoomRealty2025-main/
+
+[realestate-shield]: http://img.shields.io/badge/-RealEstate-blue.svg?style=for-the-badge&logoColor=white
+[realestate-url]: https://ruben-jim.github.io/Real-Estate/
