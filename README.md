@@ -13,7 +13,7 @@ and any feedback would be much appreciated   🏵️***
 [![Clock][clock-shield]][clock-url]
 [![port][port-shield]][port-url]
 [![Wt][Wt-shield]][Wt-url]
-[![Salon-shield][Salon-shield]][Salon-url]
+[![SalonSync][SalonSync-shield]][SalonSync-url]
 
 
 
