@@ -25,7 +25,7 @@ and any feedback would be much appreciated   🏵️***
 [gh-shield]: https://img.shields.io/badge/-Github-black.svg?style=for-the-badge&logo=github&logoColor=white
 [gh-url]: https://github.com/Ruben-Jim/Ruben-Jim
 
-[yt-shield]: https://img.shields.io/badge/-Youtube-red.svg?style=for-the-badge&logo=youtube&logoColor=white
+[yt-shield]: https://img.shields.io/badge/-Youtube-FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white
 [yt-url]: https://www.youtube.com/channel/UC-H2SCmOw-dm6DwwYcGORAA
 
 [discord-shield]: http://img.shields.io/badge/-Discord-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white
