@@ -10,8 +10,8 @@
 and any feedback would be much appreciated   🏵️***
 
 
-[![Clock][clock-shield]][clock-url]
 [![port][port-shield]][port-url]
+[![Clock][clock-shield]][clock-url]
 [![Wt][Wt-shield]][Wt-url]
 [![SalonSync][SalonSync-shield]][SalonSync-url]
 [![zoomrealty][zoomrealty-shield]][zoomrealty-url]
@@ -52,3 +52,6 @@ and any feedback would be much appreciated   🏵️***
 
 [realestate-shield]: http://img.shields.io/badge/-RealEstate-blue.svg?style=for-the-badge&logoColor=white
 [realestate-url]: https://ruben-jim.github.io/Real-Estate/
+
+[merchstore-shields]: http://img.shields.io/badge/-Firecon-merch-store-purple.svg?style=for-the-badge&logoColor=white
+[merchstore-url]: https://ruben-jim.github.io/FIreCON-merch-store/
