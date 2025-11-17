@@ -44,14 +44,14 @@ and any feedback would be much appreciated   🏵️***
 [Wt-shield]: https://img.shields.io/badge/-Weather-eab308.svg?style=for-the-badge&logoColor=white
 [Wt-url]: https://ruben-jim.github.io/weather/
 
-[SalonSync-shield]: http://img.shields.io/badge/-SalonSync-forestgreen.svg?style=for-the-badge&logoColor=white
+[SalonSync-shield]: http://img.shields.io/badge/-SalonSync-22c55e.svg?style=for-the-badge&logoColor=white
 [SalonSync-url]: https://github.com/Ruben-Jim/SalonSync
 
-[zoomrealty-shield]: http://img.shields.io/badge/-ZoomRealty-blue.svg?style=for-the-badge&logoColor=white
+[zoomrealty-shield]: http://img.shields.io/badge/-ZoomRealty-3b82f6.svg?style=for-the-badge&logoColor=white
 [zoomrealty-url]: http://ruben-jim.github.io/ZoomRealty2025-main/
 
-[realestate-shield]: http://img.shields.io/badge/-RealEstate-indigo.svg?style=for-the-badge&logoColor=white
+[realestate-shield]: http://img.shields.io/badge/-RealEstate-6366f1.svg?style=for-the-badge&logoColor=white
 [realestate-url]: https://ruben-jim.github.io/Real-Estate/
 
-[merchstore-shield]: http://img.shields.io/badge/-MerchStore-violet.svg?style=for-the-badge&logoColor=white
+[merchstore-shield]: http://img.shields.io/badge/-MerchStore-8b5cf6.svg?style=for-the-badge&logoColor=white
 [merchstore-url]: https://ruben-jim.github.io/FIreCON-merch-store/
