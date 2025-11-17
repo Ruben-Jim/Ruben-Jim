@@ -38,13 +38,13 @@ and any feedback would be much appreciated   🏵️***
 [clock-shield]: https://img.shields.io/badge/-DigitalClock-orange.svg?style=for-the-badge&logoColor=white
 [clock-url]: https://ruben-jim.github.io/Digital-Clock/
 
-[port-shield]: https://img.shields.io/badge/-Portfolio-bright-red.svg?style=for-the-badge&logoColor=white
+[port-shield]: https://img.shields.io/badge/-Portfolio-brightred.svg?style=for-the-badge&logoColor=white
 [port-url]: https://ruben-jim.github.io/Portfolio2025/
 
 [Wt-shield]: https://img.shields.io/badge/-Weather-gold.svg?style=for-the-badge&logoColor=white
 [Wt-url]: https://ruben-jim.github.io/weather/
 
-[SalonSync-shield]: http://img.shields.io/badge/-SalonSync-forest-green.svg?style=for-the-badge&logoColor=white
+[SalonSync-shield]: http://img.shields.io/badge/-SalonSync-forestgreen.svg?style=for-the-badge&logoColor=white
 [SalonSync-url]: https://github.com/Ruben-Jim/SalonSync
 
 [zoomrealty-shield]: http://img.shields.io/badge/-ZoomRealty-blue.svg?style=for-the-badge&logoColor=white
