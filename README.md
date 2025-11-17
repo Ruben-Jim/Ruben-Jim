@@ -35,23 +35,23 @@ and any feedback would be much appreciated   🏵️***
 [discord-shield]: http://img.shields.io/badge/--5865F2.svg?style=for-the-badge&logo=discord&logoColor=white
 [discord-url]: http://discordapp.com/users/RubJim#6830
 
-[clock-shield]: https://img.shields.io/badge/-DigitalClock-f97316.svg?style=for-the-badge&logoColor=white
+[clock-shield]: https://img.shields.io/badge/-DigitalClock-f97316.svg?style=for-the-badge&logoColor=black
 [clock-url]: https://ruben-jim.github.io/Digital-Clock/
 
-[port-shield]: https://img.shields.io/badge/-Portfolio-ef4444.svg?style=for-the-badge&logoColor=white
+[port-shield]: https://img.shields.io/badge/-Portfolio-ef4444.svg?style=for-the-badge&logoColor=black
 [port-url]: https://ruben-jim.github.io/Portfolio2025/
 
-[Wt-shield]: https://img.shields.io/badge/-Weather-eab308.svg?style=for-the-badge&logoColor=white
+[Wt-shield]: https://img.shields.io/badge/-Weather-eab308.svg?style=for-the-badge&logoColor=black
 [Wt-url]: https://ruben-jim.github.io/weather/
 
-[SalonSync-shield]: http://img.shields.io/badge/-SalonSync-22c55e.svg?style=for-the-badge&logoColor=white
+[SalonSync-shield]: http://img.shields.io/badge/-SalonSync-22c55e.svg?style=for-the-badge&logoColor=black
 [SalonSync-url]: https://github.com/Ruben-Jim/SalonSync
 
-[zoomrealty-shield]: http://img.shields.io/badge/-ZoomRealty-3b82f6.svg?style=for-the-badge&logoColor=white
+[zoomrealty-shield]: http://img.shields.io/badge/-ZoomRealty-3b82f6.svg?style=for-the-badge&logoColor=black
 [zoomrealty-url]: http://ruben-jim.github.io/ZoomRealty2025-main/
 
-[realestate-shield]: http://img.shields.io/badge/-RealEstate-6366f1.svg?style=for-the-badge&logoColor=white
+[realestate-shield]: http://img.shields.io/badge/-RealEstate-6366f1.svg?style=for-the-badge&logoColor=black
 [realestate-url]: https://ruben-jim.github.io/Real-Estate/
 
-[merchstore-shield]: http://img.shields.io/badge/-MerchStore-8b5cf6.svg?style=for-the-badge&logoColor=white
+[merchstore-shield]: http://img.shields.io/badge/-MerchStore-8b5cf6.svg?style=for-the-badge&logoColor=black
 [merchstore-url]: https://ruben-jim.github.io/FIreCON-merch-store/
