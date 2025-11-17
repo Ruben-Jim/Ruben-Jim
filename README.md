@@ -50,7 +50,7 @@ and any feedback would be much appreciated   🏵️***
 [zoomrealty-shield]: http://img.shields.io/badge/-ZoomRealty-blue.svg?style=for-the-badge&logoColor=white
 [zoomrealty-url]: http://ruben-jim.github.io/ZoomRealty2025-main/
 
-[realestate-shield]: http://img.shields.io/badge/-RealEstate-Indigo.svg?style=for-the-badge&logoColor=white
+[realestate-shield]: http://img.shields.io/badge/-RealEstate-indigo.svg?style=for-the-badge&logoColor=white
 [realestate-url]: https://ruben-jim.github.io/Real-Estate/
 
 [merchstore-shield]: http://img.shields.io/badge/-MerchStore-violet.svg?style=for-the-badge&logoColor=white
