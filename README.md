@@ -44,7 +44,7 @@ and any feedback would be much appreciated   🏵️***
 [Wt-shield]: https://img.shields.io/badge/-Weather-eab308.svg?style=for-the-badge&logoColor=black
 [Wt-url]: https://ruben-jim.github.io/weather/
 
-[SalonSync-shield]: http://img.shields.io/badge/-SalonSync-22c55e.svg?style=for-the-badge&logoColor=black
+[SalonSync-shield]: http://img.shields.io/badge/-SalonSync-22c55e.svg?style=for-the-badge&logoColor=black&textColor=black
 [SalonSync-url]: https://github.com/Ruben-Jim/SalonSync
 
 [zoomrealty-shield]: http://img.shields.io/badge/-ZoomRealty-3b82f6.svg?style=for-the-badge&logoColor=black
