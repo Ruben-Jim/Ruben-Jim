@@ -1,57 +1,142 @@
-[![Gh][gh-shield]][gh-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-[![Tw][tw-shield]][tw-url]
-[![Discord][discord-shield]][discord-url]
-[![Yt][yt-shield]][yt-url] 
+<div align="center">
 
-### Hi there 👋
+# 👋 Hi, I'm Ruben Jimenez
 
-***Feel free to look here at my portfolio enjoy
-and any feedback would be much appreciated   🏵️***
+### Fullstack Developer | Web & Mobile App Developer
 
+📍 **Fresno, California** | 🎓 **Clovis Community College** | 💼 **Available for Hire**
 
-[![port][port-shield]][port-url]
-[![Clock][clock-shield]][clock-url]
-[![Wt][Wt-shield]][Wt-url]
-[![SalonSync][SalonSync-shield]][SalonSync-url]
-[![zoomrealty][zoomrealty-shield]][zoomrealty-url]
-[![realestate][realestate-shield]][realestate-url]
-[![merchstore][merchstore-shield]][merchstore-url]
+[![Portfolio](https://img.shields.io/badge/Portfolio-rubenjimenez.dev-FFDB70?style=for-the-badge&logo=google-chrome&logoColor=000)](https://rubenjimenez.dev)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-FFDB70?style=for-the-badge&logo=gmail&logoColor=000)](mailto:your-email@example.com)
 
+---
 
+</div>
 
-[linkedin-shield]: https://img.shields.io/badge/--0A66C2.svg?style=for-the-badge&logo=inspire&logoColor=white
-[linkedin-url]: https://linkedin.com/in/rubenjimenezavila/
+## 🚀 About Me
 
-[tw-shield]: https://img.shields.io/badge/--black.svg?style=for-the-badge&logo=x&logoColor=white
-[tw-url]: https://x.com/Ruben_Jimenez_7
+I'm a **Fullstack Developer** specializing in creating modern web applications and mobile apps. I enjoy turning complex problems into simple, beautiful, and intuitive designs.
 
-[gh-shield]: https://img.shields.io/badge/--black.svg?style=for-the-badge&logo=github&logoColor=white
-[gh-url]: https://github.com/Ruben-Jim/Ruben-Jim
+Currently working towards an **Associates degree in Engineering Computer Software** at Clovis Community College, while developing technical skills in **fullstack development** and **cross-platform applications**.
 
-[yt-shield]: https://img.shields.io/badge/--FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white
-[yt-url]: https://www.youtube.com/channel/UC-H2SCmOw-dm6DwwYcGORAA
+---
 
-[discord-shield]: http://img.shields.io/badge/--5865F2.svg?style=for-the-badge&logo=discord&logoColor=white
-[discord-url]: http://discordapp.com/users/RubJim#6830
+## 💻 Tech Stack
 
-[clock-shield]: https://img.shields.io/badge/-DigitalClock-f97316.svg?style=for-the-badge&logoColor=black
-[clock-url]: https://ruben-jim.github.io/Digital-Clock/
+### Frontend
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=000)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
 
-[port-shield]: https://img.shields.io/badge/-Portfolio-ef4444.svg?style=for-the-badge&logoColor=black
-[port-url]: https://ruben-jim.github.io/Portfolio2025/
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=000)
 
-[Wt-shield]: https://img.shields.io/badge/-Weather-eab308.svg?style=for-the-badge&logoColor=black
-[Wt-url]: https://ruben-jim.github.io/weather/
+### Tools & Others
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=fff)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff)
 
-[SalonSync-shield]: http://img.shields.io/badge/-SalonSync-22c55e.svg?style=for-the-badge&logoColor=black
-[SalonSync-url]: https://github.com/Ruben-Jim/SalonSync
+---
 
-[zoomrealty-shield]: http://img.shields.io/badge/-ZoomRealty-3b82f6.svg?style=for-the-badge&logoColor=black
-[zoomrealty-url]: http://ruben-jim.github.io/ZoomRealty2025-main/
+## 🛠️ What I'm Doing
 
-[realestate-shield]: http://img.shields.io/badge/-RealEstate-6366f1.svg?style=for-the-badge&logoColor=black
-[realestate-url]: https://ruben-jim.github.io/Real-Estate/
+- 💻 **Web Development** - High-quality development of sites at the professional level
+- 🎨 **Web Design** - The most modern and high-quality design made at a professional level
+- 📱 **Mobile Apps** - Professional development of applications for iOS and Android
 
-[merchstore-shield]: http://img.shields.io/badge/-MerchStore-8b5cf6.svg?style=for-the-badge&logoColor=black
-[merchstore-url]: https://ruben-jim.github.io/FIreCON-merch-store/
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&bg_color=0d1117&title_color=FFDB70&icon_color=FFDB70&text_color=ffffff&hide_border=true&border_radius=10)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&bg_color=0d1117&title_color=FFDB70&text_color=ffffff&hide_border=true&border_radius=10)
+
+![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=dark&background=0d1117&border=FFDB70&ring=FFDB70&fire=FFDB70&currStreakLabel=FFDB70)
+
+</div>
+
+---
+
+## 🎯 Featured Projects
+
+### 🏘️ HOA App Template
+**React Native | Expo | Firebase**
+- Community management app with notifications and real-time updates
+- Available for licensing - Base ($500) or Premium with Customizations ($1,000)
+
+### 🛠️ Gadget Garage
+**React Native | Firebase**
+- PC services management app for hardware tracking and maintenance
+- Integrated with PC repair services
+
+### ⚽ Football Data App
+**React Native | API Integration**
+- Real-time football statistics and data visualization
+- Professional API integration
+
+[View All Projects →](https://rubenjimenez.dev)
+
+---
+
+## 💼 Services & Pricing
+
+- **Web & Mobile App Development** - $1,000 - $5,000 (Fixed Price)
+- **Code Licensing** - $1,000+ (One-time License, 12 months support)
+- **PC Services** - $100 - $300 (Per Service)
+- **Hourly Consulting** - $75/hour
+- **Community Tech Package** - $2,000 (Bundle)
+
+[View Full Services →](https://rubenjimenez.dev)
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-rubenjimenez.dev-FFDB70?style=for-the-badge&logo=google-chrome&logoColor=000)](https://rubenjimenez.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=fff)](https://linkedin.com/in/your-profile)
+[![Email](https://img.shields.io/badge/Email-Contact-FFDB70?style=for-the-badge&logo=gmail&logoColor=000)](mailto:your-email@example.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ Currently Learning
+
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=000)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=000)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=fff)
+
+---
+
+**"Turning complex problems into simple, beautiful, and intuitive designs."**
+
+⭐️ From [@RubenJim](https://github.com/YOUR_GITHUB_USERNAME)
+
+</div>
+
+---
+
+## 📝 Notes
+
+**To use this README:**
+1. Create a repository with the same name as your GitHub username (e.g., if your username is `rubenjimenez`, create a repo called `rubenjimenez`)
+2. Copy this README.md content into that repository
+3. Replace `YOUR_GITHUB_USERNAME` with your actual GitHub username
+4. Update email addresses and social media links
+5. Customize the featured projects section with your actual projects
+6. The README will automatically display on your GitHub profile!
+
+**Color Theme:**
+- Primary Accent: `#FFDB70` (Orange Yellow Crayola)
+- Background: Dark theme (`#0d1117` GitHub dark)
+- Text: White/Light Gray
+
