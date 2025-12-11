@@ -125,8 +125,3 @@ Currently working towards an **Associates degree in Engineering Computer Softwar
 
 ---
 
-**Color Theme:**
-- Primary Accent: `#FFDB70` (Orange Yellow Crayola)
-- Background: Dark theme (`#0d1117` GitHub dark)
-- Text: White/Light Gray
-
