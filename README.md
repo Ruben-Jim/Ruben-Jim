@@ -125,16 +125,6 @@ Currently working towards an **Associates degree in Engineering Computer Softwar
 
 ---
 
-## 📝 Notes
-
-**To use this README:**
-1. Create a repository with the same name as your GitHub username (e.g., if your username is `rubenjimenez`, create a repo called `rubenjimenez`)
-2. Copy this README.md content into that repository
-3. Replace `YOUR_GITHUB_USERNAME` with your actual GitHub username
-4. Update email addresses and social media links
-5. Customize the featured projects section with your actual projects
-6. The README will automatically display on your GitHub profile!
-
 **Color Theme:**
 - Primary Accent: `#FFDB70` (Orange Yellow Crayola)
 - Background: Dark theme (`#0d1117` GitHub dark)
