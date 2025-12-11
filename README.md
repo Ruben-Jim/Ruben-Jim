@@ -52,11 +52,11 @@ Currently working towards an **Associates degree in Engineering Computer Softwar
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&bg_color=0d1117&title_color=FFDB70&icon_color=FFDB70&text_color=ffffff&hide_border=true&border_radius=10)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ruben-Jim&show_icons=true&theme=dark&bg_color=0d1117&title_color=FFDB70&icon_color=FFDB70&text_color=ffffff&hide_border=true&border_radius=10)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&bg_color=0d1117&title_color=FFDB70&text_color=ffffff&hide_border=true&border_radius=10)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruben-Jim&layout=compact&theme=dark&bg_color=0d1117&title_color=FFDB70&text_color=ffffff&hide_border=true&border_radius=10)
 
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=dark&background=0d1117&border=FFDB70&ring=FFDB70&fire=FFDB70&currStreakLabel=FFDB70)
+![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=Ruben-Jim&theme=dark&background=0d1117&border=FFDB70&ring=FFDB70&fire=FFDB70&currStreakLabel=FFDB70)
 
 </div>
 
