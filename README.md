@@ -52,9 +52,10 @@ Currently working towards an **Associates degree in Engineering Computer Softwar
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ruben-Jim&show_icons=true&theme=dark&bg_color=0d1117&title_color=FFDB70&icon_color=FFDB70&text_color=ffffff&hide_border=true&border_radius=10)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruben-Jim&layout=compact&theme=dark&bg_color=0d1117&title_color=FFDB70&text_color=ffffff&hide_border=true&border_radius=10)
+<a href="https://github.com/Ruben-Jim">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ruben-Jim&show_icons=true&theme=dark&bg_color=0d1117&title_color=FFDB70&icon_color=FFDB70&text_color=ffffff&hide_border=true&border_radius=10&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruben-Jim&layout=compact&theme=dark&bg_color=0d1117&title_color=FFDB70&text_color=ffffff&hide_border=true&border_radius=10"/>
+</a>
 
 ![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=Ruben-Jim&theme=dark&background=0d1117&border=FFDB70&ring=FFDB70&fire=FFDB70&currStreakLabel=FFDB70)
 
@@ -119,9 +120,16 @@ Currently working towards an **Associates degree in Engineering Computer Softwar
 
 **"Turning complex problems into simple, beautiful, and intuitive designs."**
 
-⭐️ From [@RubenJim](https://github.com/YOUR_GITHUB_USERNAME)
+⭐️ From [@Ruben-Jim](https://github.com/Ruben-Jim)
 
 </div>
 
 ---
+
+## 📝 Notes
+
+**Color Theme:**
+- Primary Accent: `#FFDB70` (Orange Yellow Crayola)
+- Background: Dark theme (`#0d1117` GitHub dark)
+- Text: White/Light Gray
 
