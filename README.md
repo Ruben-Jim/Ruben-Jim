@@ -10,7 +10,6 @@
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-FFDB70?style=for-the-badge&logo=gmail&logoColor=000)](mailto:your-email@example.com)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDB70?style=for-the-badge&logo=buy-me-a-coffee&logoColor=000)](https://www.buymeacoffee.com/RubenDEV)
 
----
 
 </div>
 
