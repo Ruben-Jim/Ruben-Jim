@@ -12,8 +12,6 @@
 
 ---
 
-</div>
-
 <div align="center">
 
 [![HOA App Template](https://img.shields.io/badge/🏘️_HOA_App_Template-FFDB70?style=for-the-badge&logo=react&logoColor=000)](https://rubenjimenez.dev/#Portfolio)
@@ -21,6 +19,9 @@
 [![Football Data App](https://img.shields.io/badge/⚽_Football_Data_App-FFDB70?style=for-the-badge&logo=react&logoColor=000)](https://rubenjimenez.dev/#Portfolio)
 
 </div>
+
+</div>
+
 
 
 
