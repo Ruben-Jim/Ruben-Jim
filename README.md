@@ -49,8 +49,8 @@ Currently working towards an **Associates degree in Engineering Computer Softwar
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-FFDB70?style=for-the-badge&logo=tailwind-css&logoColor=000)
 
 ### Backend
-![Firebase](https://img.shields.io/badge/Firebase-FFDB70?style=for-the-badge&logo=firebase&logoColor=000)
 ![Convex](https://img.shields.io/badge/Convex-FFDB70?style=for-the-badge&logo=convex&logoColor=000)
+![Firebase](https://img.shields.io/badge/Firebase-FFDB70?style=for-the-badge&logo=firebase&logoColor=000)
 ![Async Storage](https://img.shields.io/badge/Async%20Storage-FFDB70?style=for-the-badge&logo=react&logoColor=000)
 
 ### Tools & Others
