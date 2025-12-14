@@ -14,6 +14,16 @@
 
 </div>
 
+<div align="center">
+
+[![HOA App Template](https://img.shields.io/badge/🏘️_HOA_App_Template-FFDB70?style=for-the-badge&logo=react&logoColor=000)](https://rubenjimenez.dev/#Portfolio)
+[![Gadget Garage](https://img.shields.io/badge/🛠️_Gadget_Garage-FFDB70?style=for-the-badge&logo=react&logoColor=000)](https://rubenjimenez.dev/#Portfolio)
+[![Football Data App](https://img.shields.io/badge/⚽_Football_Data_App-FFDB70?style=for-the-badge&logo=react&logoColor=000)](https://rubenjimenez.dev/#Portfolio)
+
+</div>
+
+
+
 ## 🚀 About Me
 
 I'm a **Fullstack Developer** specializing in creating modern web applications and mobile apps. I enjoy turning complex problems into simple, beautiful, and intuitive designs.
@@ -58,13 +68,7 @@ Currently working towards an **Associates degree in Engineering Computer Softwar
 
 ## 🎯 Featured Projects
 
-<div align="center">
 
-[![HOA App Template](https://img.shields.io/badge/🏘️_HOA_App_Template-FFDB70?style=for-the-badge&logo=react&logoColor=000)](https://rubenjimenez.dev/#Portfolio)
-[![Gadget Garage](https://img.shields.io/badge/🛠️_Gadget_Garage-FFDB70?style=for-the-badge&logo=react&logoColor=000)](https://rubenjimenez.dev/#Portfolio)
-[![Football Data App](https://img.shields.io/badge/⚽_Football_Data_App-FFDB70?style=for-the-badge&logo=react&logoColor=000)](https://rubenjimenez.dev/#Portfolio)
-
-</div>
 
 ### 🏘️ [HOA App Template](https://rubenjimenez.dev/#Portfolio)
 **React Native | Expo | Firebase**
