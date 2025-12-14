@@ -93,9 +93,11 @@ Currently working towards an **Associates degree in Engineering Computer Softwar
 - Real-time football statistics and data visualization
 - Professional API integration
 
-[View All Projects →](https://rubenjimenez.dev/#Portfolio)
+
 
 > **💡 Pricing Note:** All project licenses are **one-time payments** with no recurring fees. Additional costs only apply for domain names, backend services (e.g., Firebase, Convex), and app store developer accounts (Apple App Store, Google Play Store) if you choose to publish.
+
+[View All Projects →](https://rubenjimenez.dev/#Portfolio)
 
 ---
 
