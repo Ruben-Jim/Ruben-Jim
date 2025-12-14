@@ -37,26 +37,26 @@ Currently working towards an **Associates degree in Engineering Computer Softwar
 ## 💻 Tech Stack
 
 ### Framework
-![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=000)
+![React Native](https://img.shields.io/badge/React%20Native-FFDB70?style=for-the-badge&logo=react&logoColor=000)
 
 ### Frontend
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=fff&logoWidth=20)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=fff)
+![TypeScript](https://img.shields.io/badge/TypeScript-FFDB70?style=for-the-badge&logo=typescript&logoColor=000)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFDB70?style=for-the-badge&logo=javascript&logoColor=000)
+![HTML](https://img.shields.io/badge/HTML-FFDB70?style=for-the-badge&logo=html5&logoColor=000)
+![CSS](https://img.shields.io/badge/CSS-FFDB70?style=for-the-badge&logo=css3&logoColor=000&logoWidth=20)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-FFDB70?style=for-the-badge&logo=tailwind-css&logoColor=000)
 
 ### Backend
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=000)
-![Convex](https://img.shields.io/badge/Convex-6C47FF?style=for-the-badge&logo=convex&logoColor=fff)
+![Firebase](https://img.shields.io/badge/Firebase-FFDB70?style=for-the-badge&logo=firebase&logoColor=000)
+![Convex](https://img.shields.io/badge/Convex-FFDB70?style=for-the-badge&logo=convex&logoColor=000)
 ![Async Storage](https://img.shields.io/badge/Async%20Storage-FFDB70?style=for-the-badge&logo=react&logoColor=000)
 
 ### Tools & Others
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=fff)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=fff)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff)
+![Expo](https://img.shields.io/badge/Expo-FFDB70?style=for-the-badge&logo=expo&logoColor=000)
+![Node.js](https://img.shields.io/badge/Node.js-FFDB70?style=for-the-badge&logo=node.js&logoColor=000)
+![Stripe](https://img.shields.io/badge/Stripe-FFDB70?style=for-the-badge&logo=stripe&logoColor=000)
+![Git](https://img.shields.io/badge/Git-FFDB70?style=for-the-badge&logo=git&logoColor=000)
+![GitHub](https://img.shields.io/badge/GitHub-FFDB70?style=for-the-badge&logo=github&logoColor=000)
 
 ---
 
@@ -129,8 +129,8 @@ Currently working towards an **Associates degree in Engineering Computer Softwar
 
 ### ⚡ Currently Learning
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=fff)
-[![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=fff)](https://rubenjimenez.dev)
+![Docker](https://img.shields.io/badge/Docker-FFDB70?style=flat-square&logo=docker&logoColor=000)
+[![SQLite](https://img.shields.io/badge/SQLite-FFDB70?style=flat-square&logo=sqlite&logoColor=000)](https://rubenjimenez.dev)
 
 ---
 
