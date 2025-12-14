@@ -71,7 +71,7 @@ Currently working towards an **Associates degree in Engineering Computer Softwar
 
 ---
 
-## 🎯 Featured Projects [View All Projects →](https://rubenjimenez.dev/#Portfolio)
+## 🎯 Featured Projects > [View All Projects →](https://rubenjimenez.dev/#Portfolio)
 
 
 
