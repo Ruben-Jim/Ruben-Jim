@@ -19,8 +19,10 @@
 
 <div align="center">
 
-[![HOA App Template](https://img.shields.io/badge/🏘️_HOA_App_Template-FFDB70?style=for-the-badge&logo=react&logoColor=000)](https://rubenjimenez.dev/#Portfolio)
-[![Gadget Garage](https://img.shields.io/badge/🛠️_Gadget_Garage-FFDB70?style=for-the-badge&logo=react&logoColor=000)](https://rubenjimenez.dev/#Portfolio)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FFDB70?style=for-the-badge&logo=google-chrome&logoColor=000)](https://ruben-jim.github.io)
+[![ZoomRealty](https://img.shields.io/badge/🏠_ZoomRealty-FFDB70?style=for-the-badge&logo=home&logoColor=000)](https://ruben-jim.github.io/ZoomRealty2025-main/)
+[![Shelton Springs](https://img.shields.io/badge/🏘️_Shelton_Springs-FFDB70?style=for-the-badge&logo=react&logoColor=000)](https://hoa-demo--l91yvra8kn.expo.app)
+[![Gadget Garage](https://img.shields.io/badge/🛠️_Gadget_Garage-FFDB70?style=for-the-badge&logo=react&logoColor=000)](https://gadgetgarage.app)
 [![Football Data App](https://img.shields.io/badge/⚽_Football_Data_App-FFDB70?style=for-the-badge&logo=react&logoColor=000)](https://rubenjimenez.dev/#Portfolio)
 
 </div>
@@ -73,7 +75,18 @@ Currently working towards an **Associates degree in Engineering Computer Softwar
 
 ## 🎯 Featured Projects 
 
+### 🌐 [Portfolio](https://ruben-jim.github.io)
+**HTML | CSS | JavaScript**
+- Professional portfolio website showcasing projects and skills
+- Modern, responsive design with smooth animations
+- GitHub Pages hosted for fast, reliable access
 
+### 🏠 [ZoomRealty](https://ruben-jim.github.io/ZoomRealty2025-main/)
+**HTML | CSS | JavaScript**
+- Premium real estate website for Hector Picon
+- Features 1% listing fee model with full-service marketing
+- Cinematic video, 3D tours, and interactive floor plans
+- Modern design with data-backed pricing and negotiation expertise
 
 ### 🏘️ [Shelton Springs](https://hoa-demo--l91yvra8kn.expo.app)
 **React Native | Expo | Firebase**
