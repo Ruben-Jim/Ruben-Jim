@@ -83,7 +83,7 @@ Currently working towards an **Associates degree in Engineering Computer Softwar
 - **Admin Dashboard** - Comprehensive admin panel for managing residents, payments, and community content
 - Available for licensing - Base ($1000) or Premium with Customizations ($1,500)
 
-### 🛠️ [Gadget Garage](https://rubenjimenez.dev/#Portfolio)
+### 🛠️ [Gadget Garage](https://gadgetgarage.app)
 **React Native | Firebase**
 - PC services management app for hardware tracking and maintenance
 - Integrated with PC repair services
