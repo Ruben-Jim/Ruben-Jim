@@ -14,7 +14,10 @@
 
 </div>
 
-## Projects 
+---
+
+## 📁 Projects
+
 <div align="center">
 
 [![HOA App Template](https://img.shields.io/badge/🏘️_HOA_App_Template-FFDB70?style=for-the-badge&logo=react&logoColor=000)](https://rubenjimenez.dev/#Portfolio)
@@ -23,7 +26,7 @@
 
 </div>
 
-
+---
 
 ## 🚀 About Me
 
