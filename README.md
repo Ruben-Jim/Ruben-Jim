@@ -36,6 +36,8 @@ Currently working towards an **Associates degree in Engineering Computer Softwar
 
 ## 💻 Tech Stack
 
+<div align="center">
+
 ### Framework
 ![React Native](https://img.shields.io/badge/React%20Native-FFDB70?style=for-the-badge&logo=react&logoColor=000)
 
@@ -59,6 +61,7 @@ Currently working towards an **Associates degree in Engineering Computer Softwar
 ![GitHub](https://img.shields.io/badge/GitHub-FFDB70?style=for-the-badge&logo=github&logoColor=000)
 
 ---
+</div>
 
 ## 🛠️ What I'm Doing
 
