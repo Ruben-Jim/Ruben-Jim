@@ -8,6 +8,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-rubenjimenez.dev-FFDB70?style=for-the-badge&logo=google-chrome&logoColor=000)](https://rubenjimenez.dev)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-FFDB70?style=for-the-badge&logo=gmail&logoColor=000)](mailto:your-email@example.com)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDB70?style=for-the-badge&logo=buy-me-a-coffee&logoColor=000)](https://www.buymeacoffee.com/RubenDEV)
 
 ---
 
@@ -103,6 +104,7 @@ Currently working towards an **Associates degree in Engineering Computer Softwar
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-rubenjimenez.dev-FFDB70?style=for-the-badge&logo=google-chrome&logoColor=000)](https://rubenjimenez.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=fff)](https://linkedin.com/in/your-profile)
 [![Email](https://img.shields.io/badge/Email-Contact-FFDB70?style=for-the-badge&logo=gmail&logoColor=000)](mailto:your-email@example.com)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDB70?style=for-the-badge&logo=buy-me-a-coffee&logoColor=000)](https://www.buymeacoffee.com/RubenDEV)
 
 </div>
 
