@@ -22,32 +22,6 @@ Currently working towards an **Associates degree in Engineering Computer Softwar
 
 ---
 
-## 🎯 Featured Projects
-
-### 🏘️ [HOA App Template](https://rubenjimenez.dev/#Portfolio)
-**React Native | Expo | Firebase**
-- **Posts & Announcements** - Share community updates and important information
-- **Polls & Voting** - Engage residents with community polls and voting features
-- **Payment System** - Integrated payment processing for HOA fees and fines via Stripe
-- **Admin Dashboard** - Comprehensive admin panel for managing residents, payments, and community content
-- Available for licensing - Base ($1000) or Premium with Customizations ($1,500)
-
-### 🛠️ [Gadget Garage](https://rubenjimenez.dev/#Portfolio)
-**React Native | Firebase**
-- PC services management app for hardware tracking and maintenance
-- Integrated with PC repair services
-
-### ⚽ [Football Data App](https://rubenjimenez.dev/#Portfolio)
-**React Native | API Integration**
-- Real-time football statistics and data visualization
-- Professional API integration
-
-[View All Projects →](https://rubenjimenez.dev/#Portfolio)
-
-> **💡 Pricing Note:** All project licenses are **one-time payments** with no recurring fees. Additional costs only apply for domain names, backend services (e.g., Firebase, Convex), and app store developer accounts (Apple App Store, Google Play Store) if you choose to publish.
-
----
-
 ## 💻 Tech Stack
 
 ### Framework
@@ -79,6 +53,40 @@ Currently working towards an **Associates degree in Engineering Computer Softwar
 - 💻 **Web Development** - High-quality development of sites at the professional level
 - 🎨 **Web Design** - The most modern and high-quality design made at a professional level
 - 📱 **Mobile Apps** - Professional development of applications for iOS and Android
+
+---
+
+## 🎯 Featured Projects
+
+<div align="center">
+
+[![HOA App Template](https://img.shields.io/badge/🏘️_HOA_App_Template-FFDB70?style=for-the-badge&logo=react&logoColor=000)](https://rubenjimenez.dev/#Portfolio)
+[![Gadget Garage](https://img.shields.io/badge/🛠️_Gadget_Garage-FFDB70?style=for-the-badge&logo=react&logoColor=000)](https://rubenjimenez.dev/#Portfolio)
+[![Football Data App](https://img.shields.io/badge/⚽_Football_Data_App-FFDB70?style=for-the-badge&logo=react&logoColor=000)](https://rubenjimenez.dev/#Portfolio)
+
+</div>
+
+### 🏘️ [HOA App Template](https://rubenjimenez.dev/#Portfolio)
+**React Native | Expo | Firebase**
+- **Posts & Announcements** - Share community updates and important information
+- **Polls & Voting** - Engage residents with community polls and voting features
+- **Payment System** - Integrated payment processing for HOA fees and fines via Stripe
+- **Admin Dashboard** - Comprehensive admin panel for managing residents, payments, and community content
+- Available for licensing - Base ($1000) or Premium with Customizations ($1,500)
+
+### 🛠️ [Gadget Garage](https://rubenjimenez.dev/#Portfolio)
+**React Native | Firebase**
+- PC services management app for hardware tracking and maintenance
+- Integrated with PC repair services
+
+### ⚽ [Football Data App](https://rubenjimenez.dev/#Portfolio)
+**React Native | API Integration**
+- Real-time football statistics and data visualization
+- Professional API integration
+
+[View All Projects →](https://rubenjimenez.dev/#Portfolio)
+
+> **💡 Pricing Note:** All project licenses are **one-time payments** with no recurring fees. Additional costs only apply for domain names, backend services (e.g., Firebase, Convex), and app store developer accounts (Apple App Store, Google Play Store) if you choose to publish.
 
 ---
 
