@@ -27,7 +27,7 @@ Currently working towards an **Associates degree in Engineering Computer Softwar
 ### 🏘️ [HOA App Template](https://rubenjimenez.dev/#Portfolio)
 **React Native | Expo | Firebase**
 - Community management app with notifications and real-time updates
-- Available for licensing - Base ($500) or Premium with Customizations ($1,000)
+- Available for licensing - Base ($750) or Premium with Customizations ($1,500)
 
 ### 🛠️ [Gadget Garage](https://rubenjimenez.dev/#Portfolio)
 **React Native | Firebase**
@@ -40,6 +40,8 @@ Currently working towards an **Associates degree in Engineering Computer Softwar
 - Professional API integration
 
 [View All Projects →](https://rubenjimenez.dev/#Portfolio)
+
+> **💡 Pricing Note:** All project licenses are **one-time payments** with no recurring fees. Additional costs only apply for domain names, backend services (e.g., Firebase, Convex), and app store developer accounts (Apple App Store, Google Play Store) if you choose to publish.
 
 ---
 
