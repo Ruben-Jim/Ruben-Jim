@@ -21,9 +21,9 @@
 
 
 [![Shelton Springs](https://img.shields.io/badge/🏘️_Shelton_Springs-FFDB70?style=for-the-badge&logo=react&logoColor=000)](https://hoa-demo--l91yvra8kn.expo.app)
-[![Gadget Garage](https://img.shields.io/badge/🛠️_Gadget_Garage-FFDB70?style=for-the-badge&logo=react&logoColor=000)](https://gadgetgarage.app)
-[![ZoomRealty](https://img.shields.io/badge/🏠_ZoomRealty-FFDB70?style=for-the-badge&logo=home&logoColor=000)](https://ruben-jim.github.io/ZoomRealty2025-main/)
 [![RosaSalon](https://img.shields.io/badge/💇_RosaSalon-FFDB70?style=for-the-badge&logo=scissors&logoColor=000)](https://ruben-jim.github.io/RosaSalon/)
+[![ZoomRealty](https://img.shields.io/badge/🏠_ZoomRealty-FFDB70?style=for-the-badge&logo=home&logoColor=000)](https://ruben-jim.github.io/ZoomRealty2025-main/)
+[![Gadget Garage](https://img.shields.io/badge/🛠️_Gadget_Garage-FFDB70?style=for-the-badge&logo=react&logoColor=000)](https://gadgetgarage.app)
 [![Football Data App](https://img.shields.io/badge/⚽_Football_Data_App-FFDB70?style=for-the-badge&logo=react&logoColor=000)](https://rubenjimenez.dev/#Portfolio)
 
 </div>
@@ -84,12 +84,7 @@ Currently working towards an **Associates degree in Engineering Computer Softwar
 - **Admin Dashboard** - Comprehensive admin panel for managing residents, payments, and community content
 - Available for licensing - Base ($1000) or Premium with Customizations ($1,500)
 
-### 🏠 [ZoomRealty](https://ruben-jim.github.io/ZoomRealty2025-main/)
-**HTML | CSS | JavaScript**
-- Premium real estate website for Hector Picon
-- Features 1% listing fee model with full-service marketing
-- Cinematic video, 3D tours, and interactive floor plans
-- Modern design with data-backed pricing and negotiation expertise
+
 
 ### 💇 [RosaSalon](https://ruben-jim.github.io/RosaSalon/)
 **HTML | CSS | JavaScript**
@@ -97,6 +92,13 @@ Currently working towards an **Associates degree in Engineering Computer Softwar
 - Responsive layout optimized for mobile and desktop
 - Showcases services, pricing, and booking information
 - Clean, user-friendly interface for salon clients
+
+### 🏠 [ZoomRealty](https://ruben-jim.github.io/ZoomRealty2025-main/)
+**HTML | CSS | JavaScript**
+- Premium real estate website for Hector Picon
+- Features 1% listing fee model with full-service marketing
+- Cinematic video, 3D tours, and interactive floor plans
+- Modern design with data-backed pricing and negotiation expertise
 
 ### 🛠️ [Gadget Garage](https://gadgetgarage.app)
 **React Native | Firebase**
