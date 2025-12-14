@@ -75,7 +75,7 @@ Currently working towards an **Associates degree in Engineering Computer Softwar
 
 
 
-### 🏘️ [HOA App Template](https://rubenjimenez.dev/#Portfolio)
+### 🏘️ [Shelton Springs](https://hoa-demo--l91yvra8kn.expo.app)
 **React Native | Expo | Firebase**
 - **Posts & Announcements** - Share community updates and important information
 - **Polls & Voting** - Engage residents with community polls and voting features
