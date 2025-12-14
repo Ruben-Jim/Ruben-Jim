@@ -19,10 +19,10 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FFDB70?style=for-the-badge&logo=google-chrome&logoColor=000)](https://ruben-jim.github.io)
-[![ZoomRealty](https://img.shields.io/badge/🏠_ZoomRealty-FFDB70?style=for-the-badge&logo=home&logoColor=000)](https://ruben-jim.github.io/ZoomRealty2025-main/)
+
 [![Shelton Springs](https://img.shields.io/badge/🏘️_Shelton_Springs-FFDB70?style=for-the-badge&logo=react&logoColor=000)](https://hoa-demo--l91yvra8kn.expo.app)
 [![Gadget Garage](https://img.shields.io/badge/🛠️_Gadget_Garage-FFDB70?style=for-the-badge&logo=react&logoColor=000)](https://gadgetgarage.app)
+[![ZoomRealty](https://img.shields.io/badge/🏠_ZoomRealty-FFDB70?style=for-the-badge&logo=home&logoColor=000)](https://ruben-jim.github.io/ZoomRealty2025-main/)
 [![Football Data App](https://img.shields.io/badge/⚽_Football_Data_App-FFDB70?style=for-the-badge&logo=react&logoColor=000)](https://rubenjimenez.dev/#Portfolio)
 
 </div>
@@ -75,11 +75,13 @@ Currently working towards an **Associates degree in Engineering Computer Softwar
 
 ## 🎯 Featured Projects 
 
-### 🌐 [Portfolio](https://ruben-jim.github.io)
-**HTML | CSS | JavaScript**
-- Professional portfolio website showcasing projects and skills
-- Modern, responsive design with smooth animations
-- GitHub Pages hosted for fast, reliable access
+### 🏘️ [Shelton Springs](https://hoa-demo--l91yvra8kn.expo.app)
+**React Native | Expo | Firebase**
+- **Posts & Announcements** - Share community updates and important information
+- **Polls & Voting** - Engage residents with community polls and voting features
+- **Payment System** - Integrated payment processing for HOA fees and fines via Stripe
+- **Admin Dashboard** - Comprehensive admin panel for managing residents, payments, and community content
+- Available for licensing - Base ($1000) or Premium with Customizations ($1,500)
 
 ### 🏠 [ZoomRealty](https://ruben-jim.github.io/ZoomRealty2025-main/)
 **HTML | CSS | JavaScript**
@@ -88,13 +90,6 @@ Currently working towards an **Associates degree in Engineering Computer Softwar
 - Cinematic video, 3D tours, and interactive floor plans
 - Modern design with data-backed pricing and negotiation expertise
 
-### 🏘️ [Shelton Springs](https://hoa-demo--l91yvra8kn.expo.app)
-**React Native | Expo | Firebase**
-- **Posts & Announcements** - Share community updates and important information
-- **Polls & Voting** - Engage residents with community polls and voting features
-- **Payment System** - Integrated payment processing for HOA fees and fines via Stripe
-- **Admin Dashboard** - Comprehensive admin panel for managing residents, payments, and community content
-- Available for licensing - Base ($1000) or Premium with Customizations ($1,500)
 
 ### 🛠️ [Gadget Garage](https://gadgetgarage.app)
 **React Native | Firebase**
