@@ -81,7 +81,9 @@ Currently working towards an **Associates degree in Engineering Computer Softwar
 - Professional API integration
 
 [View All Projects →](https://rubenjimenez.dev/#Portfolio)
-<----! 
+
+{% comment %}
+
 ## 💼 Services & Pricing
 
 - **Web & Mobile App Development** - $1,000 - $5,000 (Fixed Price)
@@ -91,7 +93,9 @@ Currently working towards an **Associates degree in Engineering Computer Softwar
 - **Community Tech Package** - $2,000 (Bundle)
 
 [View Full Services →](https://rubenjimenez.dev)
------->
+
+{% endcomment %}
+
 ---
 
 ## 📫 Let's Connect
