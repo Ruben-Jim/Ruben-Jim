@@ -22,6 +22,27 @@ Currently working towards an **Associates degree in Engineering Computer Softwar
 
 ---
 
+## 🎯 Featured Projects
+
+### 🏘️ [HOA App Template](https://rubenjimenez.dev/#Portfolio)
+**React Native | Expo | Firebase**
+- Community management app with notifications and real-time updates
+- Available for licensing - Base ($500) or Premium with Customizations ($1,000)
+
+### 🛠️ [Gadget Garage](https://rubenjimenez.dev/#Portfolio)
+**React Native | Firebase**
+- PC services management app for hardware tracking and maintenance
+- Integrated with PC repair services
+
+### ⚽ [Football Data App](https://rubenjimenez.dev/#Portfolio)
+**React Native | API Integration**
+- Real-time football statistics and data visualization
+- Professional API integration
+
+[View All Projects →](https://rubenjimenez.dev/#Portfolio)
+
+---
+
 ## 💻 Tech Stack
 
 ### Framework
@@ -31,7 +52,7 @@ Currently working towards an **Associates degree in Engineering Computer Softwar
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff&logoWidth=20)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=fff)
 
 ### Backend
@@ -73,34 +94,11 @@ Currently working towards an **Associates degree in Engineering Computer Softwar
 
 ---
 
-## 🎯 Featured Projects
-
-### 🏘️ HOA App Template
-**React Native | Expo | Firebase**
-- Community management app with notifications and real-time updates
-- Available for licensing - Base ($500) or Premium with Customizations ($1,000)
-
-### 🛠️ Gadget Garage
-**React Native | Firebase**
-- PC services management app for hardware tracking and maintenance
-- Integrated with PC repair services
-
-### ⚽ Football Data App
-**React Native | API Integration**
-- Real-time football statistics and data visualization
-- Professional API integration
-
-[View All Projects →](https://rubenjimenez.dev/#Portfolio)
-
-
----
-
 ## 📫 Let's Connect
 
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-rubenjimenez.dev-FFDB70?style=for-the-badge&logo=google-chrome&logoColor=000)](https://rubenjimenez.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=fff)](https://linkedin.com/in/your-profile)
 [![Email](https://img.shields.io/badge/Email-Contact-FFDB70?style=for-the-badge&logo=gmail&logoColor=000)](mailto:your-email@example.com)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDB70?style=for-the-badge&logo=buy-me-a-coffee&logoColor=000)](https://www.buymeacoffee.com/RubenDEV)
 
@@ -112,11 +110,8 @@ Currently working towards an **Associates degree in Engineering Computer Softwar
 
 ### ⚡ Currently Learning
 
-![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=000)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=000)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=fff)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=fff)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=fff)
+[![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=fff)](https://rubenjimenez.dev)
 
 ---
 
