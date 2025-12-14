@@ -11,7 +11,7 @@
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDB70?style=for-the-badge&logo=buy-me-a-coffee&logoColor=000)](https://www.buymeacoffee.com/RubenDEV)
 
 
-
+---
 
 [![HOA App Template](https://img.shields.io/badge/🏘️_HOA_App_Template-FFDB70?style=for-the-badge&logo=react&logoColor=000)](https://rubenjimenez.dev/#Portfolio)
 [![Gadget Garage](https://img.shields.io/badge/🛠️_Gadget_Garage-FFDB70?style=for-the-badge&logo=react&logoColor=000)](https://rubenjimenez.dev/#Portfolio)
