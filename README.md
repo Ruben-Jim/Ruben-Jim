@@ -82,19 +82,6 @@ Currently working towards an **Associates degree in Engineering Computer Softwar
 
 [View All Projects →](https://rubenjimenez.dev/#Portfolio)
 
-{% comment %}
-
-## 💼 Services & Pricing
-
-- **Web & Mobile App Development** - $1,000 - $5,000 (Fixed Price)
-- **Code Licensing** - $1,000+ (One-time License, 12 months support)
-- **PC Services** - $100 - $300 (Per Service)
-- **Hourly Consulting** - $75/hour
-- **Community Tech Package** - $2,000 (Bundle)
-
-[View Full Services →](https://rubenjimenez.dev)
-
-{% endcomment %}
 
 ---
 
