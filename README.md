@@ -80,10 +80,8 @@ Currently working towards an **Associates degree in Engineering Computer Softwar
 - Real-time football statistics and data visualization
 - Professional API integration
 
-[View All Projects →](https://rubenjimenez.dev)
-
----
-
+[View All Projects →](https://rubenjimenez.dev/#Portfolio)
+<----! 
 ## 💼 Services & Pricing
 
 - **Web & Mobile App Development** - $1,000 - $5,000 (Fixed Price)
@@ -93,7 +91,7 @@ Currently working towards an **Associates degree in Engineering Computer Softwar
 - **Community Tech Package** - $2,000 (Bundle)
 
 [View Full Services →](https://rubenjimenez.dev)
-
+------>
 ---
 
 ## 📫 Let's Connect
