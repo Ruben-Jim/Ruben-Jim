@@ -87,7 +87,7 @@ Currently working towards an **Associates degree in Engineering Computer Softwar
 </a>
 
 <a href="https://github.com/Ruben-Jim">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=Ruben-Jim&theme=dark&background=0d1117&border=FFDB70&ring=FFDB70&fire=FFDB70&currStreakLabel=FFDB70" alt="GitHub Streak"/>
+  <img width="100%" src="https://streak-stats.demolab.com/?user=Ruben-Jim&theme=dark&background=0d1117&border=FFDB70&ring=FFDB70&fire=FFDB70&currStreakLabel=FFDB70&sideLabels=FFDB70&dates=ffffff" alt="GitHub Streak"/>
 </a>
 
 </div>
