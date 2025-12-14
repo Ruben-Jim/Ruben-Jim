@@ -26,8 +26,11 @@ Currently working towards an **Associates degree in Engineering Computer Softwar
 
 ### 🏘️ [HOA App Template](https://rubenjimenez.dev/#Portfolio)
 **React Native | Expo | Firebase**
-- Community management app with notifications and real-time updates
-- Available for licensing - Base ($750) or Premium with Customizations ($1,500)
+- **Posts & Announcements** - Share community updates and important information
+- **Polls & Voting** - Engage residents with community polls and voting features
+- **Payment System** - Integrated payment processing for HOA fees and fines via Stripe
+- **Admin Dashboard** - Comprehensive admin panel for managing residents, payments, and community content
+- Available for licensing - Base ($1000) or Premium with Customizations ($1,500)
 
 ### 🛠️ [Gadget Garage](https://rubenjimenez.dev/#Portfolio)
 **React Native | Firebase**
