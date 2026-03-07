@@ -22,13 +22,9 @@
 
 
 [![Shelton Springs](https://img.shields.io/badge/🏘️_Shelton_Springs-FFDB70?style=for-the-badge&logo=react&logoColor=000)](https://hoa-demo--l91yvra8kn.expo.app)
-
-[![RosaSalon](https://img.shields.io/badge/💇_RosaSalon-FFDB70?style=for-the-badge&logo=scissors&logoColor=000)](https://beautysalon.expo.app)
-
+[![RosaSalon](https://img.shields.io/badge/💇_RosaSalon-FFDB70?style=for-the-badge&logo=scissors&logoColor=000)](https://beautysalontemplate.expo.app)
 [![ZoomRealty](https://img.shields.io/badge/🏠_ZoomRealty-FFDB70?style=for-the-badge&logo=home&logoColor=000)](https://ruben-jim.github.io/ZoomRealty2025-main/)
-
 [![Gadget Garage](https://img.shields.io/badge/🛠️_Gadget_Garage-FFDB70?style=for-the-badge&logo=react&logoColor=000)](https://gadgetgarage.app)
-
 [![Football Data App](https://img.shields.io/badge/⚽_Football_Data_App-FFDB70?style=for-the-badge&logo=react&logoColor=000)](https://rubenjimenez.dev/#Portfolio)
 
 </div>
