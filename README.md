@@ -41,7 +41,7 @@ Every project ships on **iOS, Android, and web** from a single codebase. All app
 
 ## 🚀 Featured Projects
 
-### 🧹 [ProCleaning Seattle](https://roof-cleaning-template.expo.app)
+### 🧹 [ProCleaning Seattle](https://tradeservice.expo.app)
 **Expo · React Native · Firebase · Stripe**
 
 Full operations platform for a Seattle cleaning company — customers book, pay, and track jobs while the owner manages everything from one dashboard.
